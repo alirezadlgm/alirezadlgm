@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python;SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Business+Intelligence;Python;SQL" alt="Typing SVG" />
 </div>
 
   <a href="https://www.linkedin.com/in/alireza-delgoshamehr-0b5684356"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -47,14 +47,6 @@ When I'm not working with data, I enjoy watching football or playing video games
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
 #### Statistics & Econometrics
