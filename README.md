@@ -43,7 +43,7 @@ When I'm not working with data, I enjoy watching football or playing video games
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
-#### Programming & Automation
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
