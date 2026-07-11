@@ -56,3 +56,14 @@ When I'm not working with data, I enjoy watching football or playing video games
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+#### Statistics & Econometrics
+<p>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-4B0082?style=flat">
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-6A5ACD?style=flat">
+  <img src="https://img.shields.io/badge/Regression%20Analysis-4682B4?style=flat">
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-008080?style=flat">
+  <img src="https://img.shields.io/badge/Econometrics-2E8B57?style=flat">
+  <img src="https://img.shields.io/badge/EViews-B22222?style=flat">
+  <img src="https://img.shields.io/badge/Stata-1E90FF?style=flat">
+</p>
